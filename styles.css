@@ -4,3 +4,11 @@
 	height: 50px ;
 	opacity: 1 ;
 }
+
+.movieDetail p {
+	position: relative;
+	top: 10px;
+	width: 50px;
+	text-align: center;
+	font-size: 500;
+}
